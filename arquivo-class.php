@@ -3,7 +3,7 @@
 class Arquivo 
 {
     
-    public function veiricarDiretorio()
+    public function verificarDiretorio()
     {
         
         $diretorioin = "data/in/";
